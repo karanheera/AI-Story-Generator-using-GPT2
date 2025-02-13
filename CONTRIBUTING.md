@@ -1,7 +1,3 @@
-Sure! Here's a template for the **CONTRIBUTING.md** file:
-
----
-
 # Contributing
 
 We welcome contributions from the community to help improve and expand this app. By following this guide, you’ll help ensure that the process is smooth for everyone.
