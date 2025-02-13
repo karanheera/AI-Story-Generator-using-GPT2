@@ -33,12 +33,12 @@ To run this project locally, you need to have Python installed on your system. T
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/karanheera/AI-Story-Generator.git
+   git clone https://github.com/karanheera/AI-Story-Generator-using-gpt2.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd AI-Story-Generator
+   cd AI-Story-Generator-using-gpt2
    ```
 
 3. **Install required dependencies** using `pip`:
