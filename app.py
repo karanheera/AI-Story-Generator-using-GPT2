@@ -117,10 +117,10 @@ def generate_and_save_story(prompt, max_length, temperature, top_p, top_k):
         pdf_file = save_as_pdf(story)
         
         footer = """ 
-            Developed by [Karan Heera](https://github.com/karanheera).  
-            Technologies: Gradio, PyTorch, Transformers.  
+            Developed by [Karan Heera](https://github.com/KaranHeera).  
+            Technologies: Gradio, PyTorch, Transformers, FPDF.
             Version: 1.0.0  
-            Source Code: [GitHub](https://github.com/karanheera/ai-story-generator)
+            Source Code: [GitHub](https://github.com/karanheera/AI-Story-Generator-using-GPT2.git)
         """
         return story, "generated_story.txt", pdf_file, footer
     except Exception as e:
@@ -143,11 +143,10 @@ story_output = gr.Textbox(label="Generated Story", lines=15, interactive=False, 
 
 # Markdown footer with developer info
 footer = gr.Markdown("""
-    **This app uses GPT-2 for story generation.**  
     Developed by [Karan Heera](https://github.com/KaranHeera).  
-    Technologies: Gradio, PyTorch, Transformers.  
+    Technologies: Gradio, PyTorch, Transformers, FPDF.
     Version: 1.0.0  
-    Source Code: [GitHub](https://github.com/karanheera/ai-story-generator)
+    Source Code: [GitHub](https://github.com/karanheera/AI-Story-Generator-using-GPT2.git)
 """)
 
 # Create Gradio interface
