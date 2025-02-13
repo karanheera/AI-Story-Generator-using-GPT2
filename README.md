@@ -1,4 +1,4 @@
-# AI-Story-Generator
+# AI Story Generator using GPT-2
 
 ## Description
 
