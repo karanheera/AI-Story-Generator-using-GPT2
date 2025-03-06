@@ -27,7 +27,7 @@ Try out the app by providing a prompt, adjusting the settings for creativity and
 
 ### Prerequisites
 
-To run this project locally, you need to have Python installed on your system. Then, install the required dependencies listed in the `requirements.txt` file.
+To run this project locally, you need to have Python installed on your system. Then, install the required dependencies listed in the `requirement.txt` file.
 
 ### Steps to Install and Run Locally:
 
