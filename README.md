@@ -9,7 +9,6 @@ This app is an AI-powered story generation app using **GPT-2**, a language model
 - **Adjustable Parameters**: Control the story’s length, creativity, and randomness with sliders for maximum length, temperature, top-p, and top-k.
 - **Download Options**: Download the generated story as a **text file** or **PDF**.
 - **User-Friendly Interface**: The app is built using Gradio, allowing an intuitive web interface.
-- **Footer Info**: Display details about the app, including the developer’s GitHub link and technologies used.
 
 ## Demo
 
